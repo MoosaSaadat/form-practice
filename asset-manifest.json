@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-practice/static/css/main.03d0269e.chunk.css",
+    "main.js": "/form-practice/static/js/main.77ed52fd.chunk.js",
+    "main.js.map": "/form-practice/static/js/main.77ed52fd.chunk.js.map",
+    "runtime~main.js": "/form-practice/static/js/runtime~main.03d47907.js",
+    "runtime~main.js.map": "/form-practice/static/js/runtime~main.03d47907.js.map",
+    "static/js/2.c601a74e.chunk.js": "/form-practice/static/js/2.c601a74e.chunk.js",
+    "static/js/2.c601a74e.chunk.js.map": "/form-practice/static/js/2.c601a74e.chunk.js.map",
+    "index.html": "/form-practice/index.html",
+    "precache-manifest.670ddd2c24a3ffd94edae2e0c3d7fb64.js": "/form-practice/precache-manifest.670ddd2c24a3ffd94edae2e0c3d7fb64.js",
+    "service-worker.js": "/form-practice/service-worker.js",
+    "static/css/main.03d0269e.chunk.css.map": "/form-practice/static/css/main.03d0269e.chunk.css.map"
+  }
+}
